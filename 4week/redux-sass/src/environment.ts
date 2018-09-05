@@ -3,7 +3,7 @@ const dev = {
 }
 
 const PROD = {
-  context: 'http://salcendejasbucket427.s3-website-us-west-2.amazonaws.com:3000/'
+  context: 'http://ec2-34-219-15-162.us-west-2.compute.amazonaws.com:8080'
 }
 
 export const environment = process.env.NODE_ENV === 'production'
