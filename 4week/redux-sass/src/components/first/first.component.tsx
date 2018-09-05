@@ -5,7 +5,7 @@ export class FirstComponent extends React.Component {
   public render() {
     return (
       <div>
-        first component
+        this is my first component
       </div>
     );
   }
